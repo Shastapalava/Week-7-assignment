@@ -1,2 +1,2 @@
 # Week-7-assignment
-<img src="exploit1_gif" width="800">
+<img src="https://giphy.com/gifs/1n9xOuJSRyj6xO82BL" width="800">
