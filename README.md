@@ -7,9 +7,9 @@ Vulnerability type: XSS
 Tested in version: 4.2
 Fixed in vertion: 4.2.3
 
-This vulnerability allows users with special privileges(ex: author,aditor) to run XSS on a WordPress. The action can be done by incorporating cross site scripting inside a post. (In this example the script is: a href="[caption code=">]</a><a title=" onmouseover=alert('XSS') ">link</a). If user with higher privileges(ex: admin) viewed the page the XSS would be executed.
+This vulnerability allows users with special privileges(ex: author,aditor) to run XSS on a WordPress. The action can be done by incorporating cross site scripting inside a post. If user with higher privileges(ex: admin) viewed the page the XSS would be executed.
 
-<a href="https://imgflip.com/gif/281ud5"><img src="https://i.imgflip.com/281ud5.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/281wb2"><img src="https://i.imgflip.com/281wb2.gif" title="made at imgflip.com"/></a>
 
 2.
 Vulnerability type: User Enumeration 
