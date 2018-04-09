@@ -23,4 +23,4 @@ This vulnerability allows to find out user names list. As a result this can be u
 3. 
 
 
-<img src="https://i.imgur.com/jRXCYqL.gifv" width="800">
+<img src="Week-7-assignment/exploit1.gif" width="800">
