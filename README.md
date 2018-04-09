@@ -1,2 +1,2 @@
 # Week-7-assignment
-![](https://gfycat.com/PoliticalDopeyBluetonguelizard)
+<img src="https://gfycat.com/PoliticalDopeyBluetonguelizard" width="800">
