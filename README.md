@@ -22,6 +22,13 @@ This vulnerability allows to find out user names list. As a result this can be u
 <img src='exploit2.gif' title='exploit2' width='' alt='' />
 
 3.
+Vulnerability type: XSS
+Tested in version: 4.2
+
+
+This vulnerability is based on the discovery that meta information (ID3) stored in audio files are
+not properly sanitized in case they are uploaded by a privilage user(ex: editor or admin). If this kind of user viewed the page the XSS would be executed.
+
 
 <img src='exploit3.gif' title='exploit3' width='' alt='' />
 
