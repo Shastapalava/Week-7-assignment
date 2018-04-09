@@ -23,6 +23,7 @@ This vulnerability allows to find out user names list. As a result this can be u
 
 3.
 Vulnerability type: XSS
+
 Tested in version: 4.2
 
 
