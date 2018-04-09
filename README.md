@@ -9,7 +9,8 @@ Fixed in vertion: 4.6.1
 
 This vulnerability allows users with special privileges(ex: author,aditor) to run XSS on a WordPress. The action can be done by incorporating cross site scripting inside a post. If user with higher privileges(ex: admin) viewed the page the XSS would be executed.
 
-<a href="https://imgflip.com/gif/281wb2"><img src="https://i.imgflip.com/281wb2.gif" title="made at imgflip.com"/></a>
+<img src='exploit1.gif' title='exploit1' width='' alt='' />
+
 
 2.
 Vulnerability type: User Enumeration 
@@ -18,9 +19,9 @@ Fixed in vertion:
 
 This vulnerability allows to find out user names list. As a result this can be used in a brute forth atack in order to gain or modify private data.
 
-<a href="https://imgflip.com/gif/281vw2"><img src="https://i.imgflip.com/281vw2.gif" title="made at imgflip.com"/></a>
+<img src='exploit2.gif' title='exploit2' width='' alt='' />
 
-3. 
+3.
 
+<img src='exploit3.gif' title='exploit3' width='' alt='' />
 
-![](Week-7-assignment/exploit1.gif)
