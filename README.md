@@ -9,4 +9,6 @@ Fixed in vertion: 4.2.3
 
 This vulnerability allows users with special privileges(ex: author,aditor) to run XSS on a WordPress. The action can be done by incorporating cross site scripting inside a post. If user with higher privileges(ex: admin) viewed the page the XSS would be executed.
 
-![](https://imgflip.com/gif/281ud5)
+<img src="https://imgflip.com/gif/281ud5" width="800">
+
+
