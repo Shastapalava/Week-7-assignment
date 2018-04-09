@@ -21,3 +21,4 @@ This vulnerability allows to find out user names list. As a result this can be u
 <a href="https://imgflip.com/gif/281vw2"><img src="https://i.imgflip.com/281vw2.gif" title="made at imgflip.com"/></a>
 
 3. 
+<img src="exploit1.gif" width="800">
