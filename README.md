@@ -25,7 +25,7 @@ This vulnerability allows to find out user names list. As a result this can be u
 Vulnerability type: XSS
 
 Tested in version: 4.2
-
+Fixed in vertion: 4.7.3
 
 This vulnerability is based on the discovery that meta information (ID3) stored in audio files are
 not properly sanitized in case they are uploaded by a privilage user(ex: editor or admin). If this kind of user viewed the page the XSS would be executed.
